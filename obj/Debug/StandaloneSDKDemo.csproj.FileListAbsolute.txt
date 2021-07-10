@@ -1,0 +1,2 @@
+C:\Users\Hess\Desktop\standalone\Demo-Ver1.1.15\new\obj\Debug\Interop.zkemkeeper.dll
+C:\Users\Hess\Desktop\standalone\Demo-Ver1.1.15\new\obj\Debug\StandaloneSDKDemo.csproj.ResolveComReference.cache
